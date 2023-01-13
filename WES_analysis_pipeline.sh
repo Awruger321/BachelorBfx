@@ -53,7 +53,7 @@ done
 
 
 # Create output dir, make sure to use full path
-notebook_home=$HOME/Notebooks/
+notebook_home=Awruger321/BachelorBfx
 output_name="pipeline_out"
 output_dir=notebook_home/output_name
 
