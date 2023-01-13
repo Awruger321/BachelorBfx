@@ -55,7 +55,7 @@ done
 # Create output dir, make sure to use full path
 notebook_home=$HOME/Notebooks/
 output_name="pipeline_out"
-output_dir=$notebook_home/$output_name
+output_dir=notebook_home/output_name
 
 # Only create the folder if it is not there!
 if [ ! -d $output_dir ]; then
